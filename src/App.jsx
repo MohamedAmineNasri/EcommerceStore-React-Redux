@@ -1,12 +1,11 @@
-
+import Header from "./containers/Header";
 
 function App() {
-
   return (
     <>
-      hello
+      <Header />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
