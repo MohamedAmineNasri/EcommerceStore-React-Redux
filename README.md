@@ -32,7 +32,7 @@ The primary goal of this project is to gain hands-on experience with Redux by bu
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MohamedAmineNasri/EcommerceStore-React-Redux.git
    ```
 2. Navigate to the project directory:
    ```bash
